@@ -50,7 +50,7 @@ const Weather = () => {
         search("Bangkok")
     }, [])
 
-    return (
+    return ( 
         <div className="weather">
             <div className="search-bar">
                 <input type="text" placeholder="Search" />
